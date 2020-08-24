@@ -1,4 +1,7 @@
 import requests
 import config
 
-print("hello")
+def api_call():
+    pass
+
+
